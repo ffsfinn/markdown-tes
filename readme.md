@@ -25,5 +25,12 @@ Testing 3.
     > * mv (Name) :(_Moves || Renames a file || directory_)
     > * rm (Name) :(_Deletes a file_)
 
+6. tree :(_Makes a **Tree-like** diagram of the directories_)
+
+7. Keyboard Shortcuts
+    > * cmd + k :(_Clears the terminal. Not **DELETE** just clearing it to organize it a bit_)
+    > * Up/Down Arrow Keys :(_Moves up and down to the latest command used_)
+    > * Tab (Name) :(_Finishes the file name so you dont have to type out the entire name_)
+
 ### **These are the main Bash commands that're to be remembered. There are many more and different combinations of commands. Such as** _git_!
 
